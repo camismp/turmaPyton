@@ -1,0 +1,1 @@
+#Determinar seu um número é par ou ímpar e positivo ou negativo
